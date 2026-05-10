@@ -1,0 +1,205 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-30d5ac73a1b5e19ede65.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AutomotiveDashboard",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-75cea31ca68d74e00c41.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-6c1aaabcc354a82261f5.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-ec202e3f79ae1b638f80.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-cb6050e77e5f07e11219.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-b8dc2eb04c72a77f38b5.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAutomotiveDashboard::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAutomotiveDashboard-Debug-cf2ff7b4df23a10b36be.json",
+					"name" : "appAutomotiveDashboard",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAutomotiveDashboard_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAutomotiveDashboard_autogen-Debug-62c268e0870a7bd1bee6.json",
+					"name" : "appAutomotiveDashboard_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAutomotiveDashboard_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAutomotiveDashboard_autogen_timestamp_deps-Debug-dc74bff283442789b0ad.json",
+					"name" : "appAutomotiveDashboard_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAutomotiveDashboard_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAutomotiveDashboard_copy_qml-Debug-a7f99070f9bccaea780c.json",
+					"name" : "appAutomotiveDashboard_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAutomotiveDashboard_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAutomotiveDashboard_copy_res-Debug-c97889058a54f35f371c.json",
+					"name" : "appAutomotiveDashboard_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAutomotiveDashboard_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAutomotiveDashboard_qmlimportscan-Debug-e65506a65fd65e920c93.json",
+					"name" : "appAutomotiveDashboard_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAutomotiveDashboard_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAutomotiveDashboard_qmllint-Debug-82d9b1cd20e5971e483c.json",
+					"name" : "appAutomotiveDashboard_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAutomotiveDashboard_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAutomotiveDashboard_qmllint_json-Debug-3debe30261b2fdd23c25.json",
+					"name" : "appAutomotiveDashboard_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAutomotiveDashboard_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAutomotiveDashboard_qmllint_module-Debug-53bc00bde44c96726f57.json",
+					"name" : "appAutomotiveDashboard_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAutomotiveDashboard_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAutomotiveDashboard_qmltyperegistration-Debug-2cd917e66470c4cfa7f5.json",
+					"name" : "appAutomotiveDashboard_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_qmlls_build_ini_file-Debug-3241b2f32cbbdd855fb2.json",
+					"name" : "generate_qmlls_build_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appAutomotiveDashboard_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appAutomotiveDashboard_aotstats_target-Debug-ee8bafd10c7b75c1bf62.json",
+					"name" : "module_appAutomotiveDashboard_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/mohamed/Desktop/Test/build/Desktop_Qt_6_10_2-Debug",
+		"source" : "/home/mohamed/Desktop/Test"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "i2c_handler",
+            "lineNumber": 7,
+            "object": true,
+            "qualifiedClassName": "i2c_handler",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "i2c_handler.h",
+    "outputRevision": 69
+}

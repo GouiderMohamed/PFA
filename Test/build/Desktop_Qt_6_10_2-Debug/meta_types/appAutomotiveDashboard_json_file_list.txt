@@ -1,0 +1,3 @@
+/home/mohamed/Desktop/Test/build/Desktop_Qt_6_10_2-Debug/appAutomotiveDashboard_autogen/include/../EWIEGA46WW/moc_backend.cpp.json
+/home/mohamed/Desktop/Test/build/Desktop_Qt_6_10_2-Debug/appAutomotiveDashboard_autogen/include/../EWIEGA46WW/moc_gpio_handler.cpp.json
+/home/mohamed/Desktop/Test/build/Desktop_Qt_6_10_2-Debug/appAutomotiveDashboard_autogen/include/../EWIEGA46WW/moc_i2c_handler.cpp.json

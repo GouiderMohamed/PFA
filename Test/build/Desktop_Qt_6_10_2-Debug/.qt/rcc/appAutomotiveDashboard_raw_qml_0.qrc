@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/AutomotiveDashboard/">
+    <file alias="Main.qml">/home/mohamed/Desktop/Test/Main.qml</file>
+    <file alias="Speedometer.qml">/home/mohamed/Desktop/Test/Speedometer.qml</file>
+    <file alias="RpmGauge.qml">/home/mohamed/Desktop/Test/RpmGauge.qml</file>
+    <file alias="IndicatorIcon.qml">/home/mohamed/Desktop/Test/IndicatorIcon.qml</file>
+  </qresource>
+</RCC>
+
