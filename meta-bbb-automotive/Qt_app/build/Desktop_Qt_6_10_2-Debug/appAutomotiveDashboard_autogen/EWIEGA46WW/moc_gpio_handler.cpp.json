@@ -1,0 +1,41 @@
+{
+    "classes": [
+        {
+            "className": "Gpio_handler",
+            "lineNumber": 6,
+            "object": true,
+            "qualifiedClassName": "Gpio_handler",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "lineNumber": 13,
+                    "name": "leftButtonPressed",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "lineNumber": 14,
+                    "name": "rightButtonPressed",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "lineNumber": 15,
+                    "name": "warningButtonPressed",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "gpio_handler.h",
+    "outputRevision": 69
+}

@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appAutomotiveDashboard_FILE /home/mohamed/Desktop/Test/build/Desktop_Qt_6_10_2-Debug/appAutomotiveDashboard)
+set(__QT_DEPLOY_TARGET_appAutomotiveDashboard_TYPE EXECUTABLE)

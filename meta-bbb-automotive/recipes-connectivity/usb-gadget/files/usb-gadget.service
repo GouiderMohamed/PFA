@@ -1,0 +1,23 @@
+[Unit]
+Description=USB Gadget RNDIS/NCM Network
+After=kmod-static-nodes.service systemd-modules-load.service
+Before=network-pre.target network.target
+DefaultDependencies=no
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+ExecStart=/usr/lib/usb-gadget/usb-gadget.sh up
+ExecStop=/usr/lib/usb-gadget/usb-gadget.sh down
+
+TimeoutStartSec=30
+TimeoutStopSec=30
+Restart=on-failure
+RestartSec=2
+
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=usb-gadget
+
+[Install]
+WantedBy=multi-user.target

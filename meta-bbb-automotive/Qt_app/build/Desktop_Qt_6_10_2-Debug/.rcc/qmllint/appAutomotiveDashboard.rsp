@@ -1,0 +1,17 @@
+--bare
+-I
+/home/mohamed/Desktop/Test/build/Desktop_Qt_6_10_2-Debug
+-I
+/home/mohamed/Desktop/Test/build/Desktop_Qt_6_10_2-Debug/AutomotiveDashboard
+-I
+/home/mohamed/Desktop/Test/build/Desktop_Qt_6_10_2-Debug
+-I
+/home/mohamed/Qt/6.10.2/gcc_64/qml
+--resource
+/home/mohamed/Desktop/Test/build/Desktop_Qt_6_10_2-Debug/.qt/rcc/qmake_AutomotiveDashboard.qrc
+--resource
+/home/mohamed/Desktop/Test/build/Desktop_Qt_6_10_2-Debug/.qt/rcc/appAutomotiveDashboard_raw_qml_0.qrc
+/home/mohamed/Desktop/Test/Main.qml
+/home/mohamed/Desktop/Test/Speedometer.qml
+/home/mohamed/Desktop/Test/RpmGauge.qml
+/home/mohamed/Desktop/Test/IndicatorIcon.qml

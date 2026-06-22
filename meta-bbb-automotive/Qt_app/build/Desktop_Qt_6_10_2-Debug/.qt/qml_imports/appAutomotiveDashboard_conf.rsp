@@ -1,0 +1,14 @@
+-rootPath
+/home/mohamed/Desktop/Test
+-cmake-output
+-output-file
+/home/mohamed/Desktop/Test/build/Desktop_Qt_6_10_2-Debug/.qt/qml_imports/appAutomotiveDashboard_conf.cmake
+-importPath
+/home/mohamed/Desktop/Test/build/Desktop_Qt_6_10_2-Debug
+-importPath
+/home/mohamed/Desktop/Test/build/Desktop_Qt_6_10_2-Debug/AutomotiveDashboard
+-importPath
+/home/mohamed/Qt/6.10.2/gcc_64/qml
+-qrcFiles
+/home/mohamed/Desktop/Test/build/Desktop_Qt_6_10_2-Debug/.qt/rcc/qmake_AutomotiveDashboard.qrc
+/home/mohamed/Desktop/Test/build/Desktop_Qt_6_10_2-Debug/.qt/rcc/appAutomotiveDashboard_raw_qml_0.qrc

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/AutomotiveDashboard/">
+    <file alias="car.png">/home/mohamed/Desktop/Test/car.png</file>
+  </qresource>
+</RCC>
+

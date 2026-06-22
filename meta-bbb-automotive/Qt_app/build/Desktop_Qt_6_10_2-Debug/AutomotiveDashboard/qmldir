@@ -1,0 +1,9 @@
+module AutomotiveDashboard
+typeinfo appAutomotiveDashboard.qmltypes
+prefer :/qt/qml/AutomotiveDashboard/
+Main 254.0 Main.qml
+Speedometer 254.0 Speedometer.qml
+RpmGauge 254.0 RpmGauge.qml
+IndicatorIcon 254.0 IndicatorIcon.qml
+depends QtQuick
+
