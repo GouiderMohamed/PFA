@@ -1,0 +1,14 @@
+[Unit]
+Description=Qt Automotive Dashboard
+# Le dashboard attend que le simulateur soit prêt
+After=sim-script.service
+
+[Service]
+Type=simple
+Environment="QT_QPA_PLATFORM=linuxfb"
+# On lance l'exécutable généré par ton CMake
+ExecStart=/usr/bin/appAutomotiveDashboard
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
