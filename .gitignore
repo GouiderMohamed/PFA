@@ -1,0 +1,13 @@
+# Fichiers temporaires et logs de BitBake
+bitbake-cookerdaemon.log
+tmp/
+sstate-cache/
+cache/
+downloads/
+
+# Configuration locale (souvent propre à ta machine, optionnel mais recommandé)
+# conf/local.conf
+# conf/bblayers.conf
+
+# Éditeur
+.vscode/
